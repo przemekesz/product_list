@@ -1,0 +1,8 @@
+@media all and (max-width: 992px){
+    #content .images{
+    width: 40%;
+}
+@media all and (max-width: 480px){
+    #content .images{
+    width: 80%;
+}
